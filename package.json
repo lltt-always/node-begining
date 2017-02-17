@@ -1,0 +1,12 @@
+{
+  "name": "node-server-study",
+  "version": "0.1.0",
+  "author": "litong",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {}
+}
